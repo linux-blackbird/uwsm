@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo cp -rf /opt/uwsm/cfg/* /
+sudo cp -rf /opt/cache/uwsm/cfg/* /
